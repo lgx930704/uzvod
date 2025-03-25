@@ -1,0 +1,149 @@
+{
+  "danMu": [
+    {
+      "name": "弹幕扩展",
+      "version": 1,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu.js",
+      "type": 400
+    }
+  ],
+  "panTools": [
+    {
+      "name": "UC、夸克、阿里 网盘解析工具",
+      "version": 14,
+      "remark": "iOS14 以上版本可用",
+      "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools.js",
+      "type": 300
+    },
+    {
+      "name": "夸克|123|189|UC 网盘解析工具",
+      "version": 15,
+      "remark": "iOS14 以上版本可用,App v1.6.54 及以上版本可用",
+      "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2.js",
+      "type": 300
+    }
+  ],
+  "recommend": [
+    {
+      "name": "豆瓣推荐",
+      "version": 3,
+      "remark": "iOS14 以上版本可用",
+      "codeID": "N7WRmLmOdB8FSh4M",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/recommend/js/douban.txt",
+      "type": 200
+    }
+  ],
+  "vod": [
+    {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "🐝如意",
+      "type": 0
+    },
+    {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "name": "🐝黑木耳",
+      "type": 0
+    },
+    {
+      "api": "https://cjhwba.com/api.php/provide/vod/",
+      "name": "🐝华为吧",
+      "type": 0
+    },
+    {
+      "name": "玩偶哥哥",
+      "version": 3,
+      "webSite": "http://wogg.xxooo.cf",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/wobg.js",
+      "type": 101
+    },
+    {
+      "name": "雷鲸小站",
+      "version": 4,
+      "remark": "天翼网盘",
+      "webSite": "https://www.leijing.xyz",
+      "codeID": "GgryhjYVgQMDUw4f",
+      "instance": "leiJing20241126",
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/leijing.txt",
+      "type": 100
+    },
+    {
+      "name": "厂长影视",
+      "version": 2,
+      "webSite": "https://www.czzy77.com",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/changZhang20240614.js",
+      "type": 101
+    },
+    {
+      "name": "在线之家",
+      "version": 2,
+      "webSite": "https://www.zxzja.com",
+      "instance": "zxzj20240620",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/zxzj.js",
+      "type": 100
+    },
+    {
+      "name": "蛋蛋剧",
+      "version": 2,
+      "webSite": "https://www.dandanju.tv",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/dandanju.js",
+      "type": 101
+    },
+    {
+      "name": "天翼搜",
+      "version": 3,
+      "remark": "仅搜索",
+      "webSite": "https://www.tianyiso.com",
+      "codeID": "DU9z425w42hk9B8l",
+      "instance": "tianyiso20241129",
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/tianyiso.txt",
+      "type": 100
+    },
+    {
+      "name": "瓜子app",
+      "version": 2,
+      "remark": "v1.6.53 及以上版本",
+      "webSite": "https://api.9cec79d.com",
+      "codeID": "ra5Z3wtXKshzSMK2",
+      "instance": "gzapp20241001",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
+      "type": 100
+    },
+    {
+      "name": "两个bt",
+      "version": 2,
+      "webSite": "https://www.bttwoo.com",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/bttwo.js",
+      "type": 101
+    },
+    {
+      "name": "mifun",
+      "version": 1,
+      "webSite": "http://www.mifun.tw",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mifun.js",
+      "type": 101
+    },
+    {
+      "name": "clicli",
+      "version": 1,
+      "webSite": "https://www.clicli.pro",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/clicli.js",
+      "type": 101
+    }
+  ],
+  "live": [
+    {
+      "name": "📺电视直播",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "type": 10,
+      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    },
+    {
+      "name": "🎥网络直播",
+      "url": "https://tv.iill.top/m3u/Live",
+      "type": 10,
+      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    }
+  ]
+}
