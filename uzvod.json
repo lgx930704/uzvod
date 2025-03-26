@@ -1,27 +1,10 @@
 {
-  "danMu": [
-    {
-      "name": "弹幕扩展",
-      "version": 1,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/danMu/js/danMu.js",
-      "type": 400
-    }
-  ],
   "panTools": [
     {
-      "name": "UC、夸克、阿里 网盘解析工具",
-      "version": 14,
-      "remark": "iOS14 以上版本可用",
-      "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools.js",
-      "type": 300
-    },
-    {
-      "name": "夸克|123|189|UC 网盘解析工具",
-      "version": 15,
-      "remark": "iOS14 以上版本可用,App v1.6.54 及以上版本可用",
-      "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2.js",
+      "name": "网盘解析工具",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/panTools/panTools.txt",
+      "env": "天翼Cookie##用于播放天翼网盘视频&&UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token32##用于播放阿里网盘视频&&阿里Token280##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
+      "version": "1732410651",
       "type": 300
     }
   ],
@@ -81,6 +64,14 @@
       "webSite": "https://www.zxzja.com",
       "instance": "zxzj20240620",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/zxzj.js",
+      "type": 100
+    },
+    {
+      "name": "金牌影视",
+      "version": 2,
+      "webSite": "https://www.ghw9zwp5.com",
+      "instance": "jpyy20240716",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/jpyy.js",
       "type": 100
     },
     {
