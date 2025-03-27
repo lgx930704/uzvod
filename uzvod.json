@@ -43,6 +43,27 @@
       "type": 101
     },
     {
+      "name": "小米网盘",
+      "version": 3,
+      "webSite": "http://www.mucpan.cc",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/xiaomi.js",
+      "type": 101
+    },
+    {
+      "name": "闪电优汐",
+      "version": 1,
+      "webSite": "http://1.95.79.193/",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/shandian.js",
+      "type": 101
+    },
+    {
+      "name": "小小虎斑",
+      "version": 1,
+      "webSite": "http://103.45.162.207:20720",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/huban.js",
+      "type": 101
+    },
+    {
       "name": "雷鲸小站",
       "version": 4,
       "remark": "天翼网盘",
