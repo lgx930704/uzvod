@@ -57,6 +57,13 @@
       "type": 101
     },
     {
+      "name": "小米网盘",
+      "version": 3,
+      "webSite": "http://www.mucpan.cc",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/xiaomi.js",
+      "type": 101
+    },
+    {
       "name": "闪电优汐",
       "version": 1,
       "webSite": "http://1.95.79.193/",
