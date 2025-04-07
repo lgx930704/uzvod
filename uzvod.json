@@ -4,7 +4,7 @@
       "name": "网盘解析工具",
       "version": 17,
       "remark": "iOS14 以上版本可用,App v1.6.54 及以上版本可用",
-      "env": "UCCookie##用于播放UC网盘视频&&UC_UT##自动获取，不可用时点击删除再重启app&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频",
+      "env": "UCCookie##用于播放UC网盘视频&&UC_UT##播放视频自动获取，不可用时点击删除重新获取 cookie ，再重启app&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称&&123网盘账号##用于播放123网盘视频&&123网盘密码##用于播放123网盘视频&&天翼网盘账号##用于播放天翼网盘视频&&天翼网盘密码##用于播放天翼网盘视频",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/panTools/js/panTools2.js",
       "type": 300
     }
@@ -43,10 +43,17 @@
       "type": 101
     },
     {
-      "name": "小米网盘",
+      "name": "木偶哥哥",
+      "version": 2,
+      "webSite": "https://mo.91muou.icu",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mogg.js",
+      "type": 101
+    },
+    {
+      "name": "讴歌网盘",
       "version": 3,
-      "webSite": "http://www.mucpan.cc",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/xiaomi.js",
+      "webSite": "https://woog.nxog.eu.org",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/ouge.js",
       "type": 101
     },
     {
@@ -74,7 +81,7 @@
       "type": 100
     },
     {
-      "name": "瓜子app",
+      "name": "瓜子影视",
       "version": 2,
       "remark": "v1.6.53 及以上版本",
       "webSite": "https://api.9cec79d.com",
@@ -82,13 +89,6 @@
       "instance": "gzapp20241001",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/gzapp.txt",
       "type": 100
-    },
-    {
-      "name": "厂长影视",
-      "version": 2,
-      "webSite": "https://www.czzy77.com",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/changZhang20240614.js",
-      "type": 101
     },
     {
       "name": "在线之家",
@@ -107,21 +107,35 @@
       "type": 100
     },
     {
+      "name": "烧火影视",
+      "version": 2,
+      "webSite": "https://saohuo.tv",
+      "instance": "saohuo20240623",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/saohuo.js",
+      "type": 100
+    },
+    {
+      "name": "4k影视",
+      "version": 2,
+      "webSite": "https://4k-av.com",
+      "instance": "www4kav20240705",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/4kav.js",
+      "type": 100
+    },
+    {
+      "name": "素白白",
+      "version": 2,
+      "webSite": "https://www.subaibaiys.com",
+      "instance": "sbb20240624",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/subaibai.js",
+      "type": 100
+    },
+    {
       "name": "蛋蛋剧",
       "version": 2,
       "webSite": "https://www.dandanju.tv",
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/dandanju.js",
       "type": 101
-    },
-    {
-      "name": "天翼搜",
-      "version": 3,
-      "remark": "仅搜索",
-      "webSite": "https://www.tianyiso.com",
-      "codeID": "DU9z425w42hk9B8l",
-      "instance": "tianyiso20241129",
-      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/tianyiso.txt",
-      "type": 100
     },
     {
       "name": "两个bt",
@@ -131,17 +145,27 @@
       "type": 101
     },
     {
-      "name": "mifun",
-      "version": 1,
-      "webSite": "http://www.mifun.tw",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/mifun.js",
-      "type": 101
+      "name": "天翼盘搜",
+      "version": 3,
+      "remark": "仅搜索",
+      "webSite": "https://www.tianyiso.com",
+      "codeID": "DU9z425w42hk9B8l",
+      "instance": "tianyiso20241129",
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/tianyiso.txt",
+      "type": 100
     },
     {
-      "name": "clicli",
+      "name": "PanSearch",
+      "codeID": "UM9WK6x3sPm3mbUgJB2dJNs59vTyNynm",
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/pansearch.txt",
+      "webSite": "https://www.pansearch.me",
+      "remark": "仅搜索",
+      "noHistory": false,
+      "userAgent": "",
+      "isLock": false,
+      "blockClassList": ["广告"],
+      "env": "",
       "version": 1,
-      "webSite": "https://www.clicli.pro",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/clicli.js",
       "type": 101
     }
   ],
