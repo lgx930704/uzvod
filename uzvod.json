@@ -111,14 +111,6 @@
       "type": 100
     },
     {
-      "name": "烧火影视",
-      "version": 2,
-      "webSite": "https://saohuo.tv",
-      "instance": "saohuo20240623",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/saohuo.js",
-      "type": 100
-    },
-    {
       "name": "瓜子app",
       "version": 2,
       "remark": "v1.6.53 及以上版本",
