@@ -26,16 +26,6 @@
       "type": 0
     },
     {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-      "name": "🐝黑木耳",
-      "type": 0
-    },
-    {
-      "api": "https://cjhwba.com/api.php/provide/vod/",
-      "name": "🐝华为吧",
-      "type": 0
-    },
-    {
       "name": "玩偶哥哥",
       "version": 3,
       "webSite": "http://wogg.xxooo.cf",
