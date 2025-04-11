@@ -78,6 +78,13 @@
       "type": 101
     },
     {
+      "name": "清影网盘",
+      "version": 1,
+      "webSite": "https://revohd.com/",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lgx930704/uzvod/refs/heads/main/qingying.js",
+      "type": 101
+    },
+    {
       "name": "天翼盘搜",
       "version": 3,
       "remark": "仅搜索",
