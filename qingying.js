@@ -56,11 +56,6 @@ async function getClassList(args) {
             type_name: '清影娱乐',
             hasSubclass: false,
         },
-        {
-            type_id: '5',
-            type_name: '清影专题',
-            hasSubclass: false,
-        },
     ]
     return JSON.stringify(backData)
 }
