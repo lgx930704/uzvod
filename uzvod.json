@@ -79,9 +79,9 @@
     },
     {
       "name": "清影网盘",
-      "version": 1,
-      "webSite": "https://revohd.com/",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lgx930704/uzvod/refs/heads/main/qingying.js",
+      "version": 3,
+      "webSite": "https://revohd.com",
+      "api": "https://raw.githubusercontent.com/lgx930704/uzvod/refs/heads/main/qingying.js",
       "type": 101
     },
     {
