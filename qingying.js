@@ -1,9 +1,9 @@
 //@name:清影网盘
-//@version:1
-//@webSite:https://revohd.com/
+//@version:3
+//@webSite:https://revohd.com
 //@remark:
 const appConfig = {
-    _webSite: 'https://revohd.com/',
+    _webSite: 'https://revohd.com',
     /**
      * 网站主页，uz 调用每个函数前都会进行赋值操作
      * 如果不想被改变 请自定义一个变量
